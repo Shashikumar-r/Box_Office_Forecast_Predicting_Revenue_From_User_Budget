@@ -1,8 +1,4 @@
 **Box Office Revenue Prediction**
-
-![GitHub Repo Size](https://img.shields.io/github/repo-size/shashikumar-r/Box_Office_Forecast_Predicting_Revenue_From_User_Budget)
-![GitHub License](https://img.shields.io/github/license/shashikumar-r/Box_Office_Forecast_Predicting_Revenue_From_User_Budget)
-
 ---
 
 **Description:**
